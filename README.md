@@ -19,11 +19,12 @@ This project is a basic user profile management website built with Vue.js. Users
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/zchean1216/Basic-User-Profile.git
+    cd Basic-User-Profile
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd your-repository
+    cd Basic-User-Profile
     ```
 3. **Install Dependencies**:
     ```sh
