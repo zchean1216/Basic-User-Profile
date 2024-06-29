@@ -1,9 +1,9 @@
 
-# Teamable - User Profile Management Website
+# User Profile Management Website
 
 ## Project Overview
 
-Teamable is a user profile management website built with Vue.js and Express. Users can save and update their personal information through a user-friendly interface. The application is designed for easy deployment and maintenance, utilizing modern web development practices.
+This is a user profile management website built with Vue.js and Express. Users can save and update their personal information through a user-friendly interface. The application is designed for easy deployment and maintenance, utilizing modern web development practices.
 
 ## Project Objectives
 
