@@ -21,8 +21,8 @@ Teamable is a user profile management website built with Vue.js and Express. Use
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/zchean1216/Teamable.git
-    cd Teamable
+    git clone https://github.com/zchean1216/Basic-User-Profile.git
+    cd Basic-User-Profile/basic
     ```
 
 2. **Install Dependencies**:
@@ -36,17 +36,18 @@ Teamable is a user profile management website built with Vue.js and Express. Use
     ```
 
 4. **Open the Application**:
-    - After running the above command, copy the local server URL (usually `http://localhost:8080`) from the terminal output and paste it into your web browser.
+    - After running the above command, copy the local server URL (should be `http://localhost:3000`) from the terminal output and paste it into your web browser.
 
 ## File Structure
 
-- **index.html**: The main HTML file.
-- **App.vue**: The main Vue component containing the user profile interface.
-- **main.js**: Initializes the Vue app.
-- **server.js**: Sets up the Express server and API endpoints.
-- **validator.js**: Contains server-side validation functions.
-- **package.json**: Project metadata and dependencies.
-- **app.css/js**: Compiled CSS and JavaScript files for the frontend.
+- **basic/**:
+  - **index.html**: The main HTML file.
+  - **App.vue**: The main Vue component containing the user profile interface.
+  - **main.js**: Initializes the Vue app.
+  - **server.js**: Sets up the Express server and API endpoints.
+  - **validator.js**: Contains server-side validation functions.
+  - **package.json**: Project metadata and dependencies.
+  - **app.css/js**: Compiled CSS and JavaScript files for the frontend.
 
 ## API Endpoints
 
@@ -63,5 +64,5 @@ Teamable is a user profile management website built with Vue.js and Express. Use
 ## Contact
 
 For questions or feedback, contact:
-- **Name**: Jayden Chen
+- **Name**: Jayden Chia
 - **Email**: zhengchean@gmail.com
